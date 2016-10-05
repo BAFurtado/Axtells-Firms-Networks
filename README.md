@@ -6,11 +6,11 @@ in the network.
 
 ## How to cite?
 
-This working paper has been submitted, but not yet published anywhere.
+This working paper has been published.
 Please, cite as: FURTADO, Bernardo Alves; MESSA, Alexandre Silva; EBERHARDT, Isaque Daniel Rocha and MACIENTE, Aguinaldo 
-N. **Endogenous dynamics of firms made up by networked agents: an exploratory analysis** IPEA: Brasília, 2016 (mimeo). 
+N. **Endogenous dynamics of firms made up by networked agents: an exploratory analysis** RADAR, n. 45, p. 19-32, IPEA: Brasília, 2016. 
 
-Contact us to get a preliminary PDF version.
+Available here https://www.researchgate.net/publication/304659905_Dinamica_endogena_de_firmas_formadas_por_agentes_em_rede_uma_analise_exploratoria
 
 ## Who to talk to?
 
